@@ -23,9 +23,7 @@ SECRET_KEY = '-14qrwxkqmoj2hi4mups(+in1i4xy%)enbbx^k14)15dwegbp#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-'benecosvel.pythonanywhere.com'
-]
+ALLOWED_HOSTS = []
 
 # Application definition
 
